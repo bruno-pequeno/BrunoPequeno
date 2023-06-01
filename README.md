@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Looking for the first opportunity
-🌱 Currently studying at Fatec
+🔭 Looking for the first opportunity<br>🌱 Currently studying at Fatec
 
 
 ## 🌐 Socials:
