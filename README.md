@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Bruno Pequeno</h1>
+<h1 align="center">Olá 👋, Bem-vindo ao meu GitHub</h1>
 <h3 align="center">⚡ Todos os dias trilhando o caminho do desenvolvimento e sempre antenado no que há de melhor da tecnologia e tendências do mercado , a fim de melhor atender qualquer empresa e aprimorar tanto as Hard Skills quanto as Soft Skills.</h3>
 <h3 align="center">💾 Aqui você encontrará projetos pessoais, desafios e atividades do meu desenvolvimento</h3>
 
