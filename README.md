@@ -13,7 +13,18 @@
 
 <h3 align="left">‎ </h3>
 <h3 align="left">🖥️ Tech Stack:</h3>
-<p align="left"> <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png" alt="Java" height="50" /></a> <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a> <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a></p> 
+<div style="display: inline-block"><br>
+  <img hspace="8px" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img hspace="8px" align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img hspace="8px" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img hspace="8px" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img hspace="8px" align="center" height="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img hspace="8px" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  <img hspace="8px" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  <img hspace="8px" align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img hspace="8px" align="center" height="40px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" />
+  <img hspace="8px" align="center" height="40px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" />
+</div>
 
 <h3 align="left">‎ </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunopequeno&show_icons=true&theme=dark&locale=en&layout=compact" alt="brunopequeno" /></p>
